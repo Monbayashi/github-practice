@@ -1,5 +1,5 @@
 # GITHUB-PRACTICE
 
-graph LR
+flowchart LR
   いのき --> ボンバイエ
   ボンバイエ --> いのき
